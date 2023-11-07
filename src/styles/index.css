@@ -1,3 +1,34 @@
+.bigCounter {
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin :10px;  
+
+}
+
+.bigCounter div {
+    display: inline-block;
+    font-size: 60px;
+    line-height: 60px;
+    height: 90px; 
+    background-color: black;
+    color: white;
+    padding: 15px 0px;
+    margin: 3px;
+}
+
+.digit{
+   padding: 10px;
+    margin: 0 10px;
+    width: 60px;
+    text-align: center;
+    
+   
+}
+    
+  
+
 
 /* 
 
