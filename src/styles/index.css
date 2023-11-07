@@ -11,21 +11,22 @@
     display: inline-block;
     font-size: 60px;
     line-height: 60px;
-    height: 90px; 
-    background-color: black;
+    height: 100px; 
+    background-color: rgb(26, 24, 24);
     color: white;
-    padding: 15px 0px;
-    margin: 3px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 .digit{
-   padding: 10px;
-    margin: 0 10px;
-    width: 60px;
+    width: 70px;
     text-align: center;
-    
-   
 }
+   
+
     
   
 
